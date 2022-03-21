@@ -3,7 +3,7 @@
 ### - author @Aryaroop (FiNiX-GaMmA)
 > The code is written totally using python using **pygame library.
 
-- the image files and all related documentations can me found [here] (https://github.com/FiNiX-GaMmA/tic-tac-toe)
+- the image files and all related documentations can me found [here](https://github.com/FiNiX-GaMmA/tic-tac-toe)
 
 #### installing the pygame librabry to help building cross platform game development
 > pip install pygame
